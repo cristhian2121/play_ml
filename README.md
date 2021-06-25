@@ -5,3 +5,9 @@ First is necesary upload enviroment, afeter from VScode select the enviroment an
 * Series (1D)
 * Dataframes (2D)
 * Panels (3D)
+
+## Packages
+pip install seaborn
+matplot
+numpy
+pandas
